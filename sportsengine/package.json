@@ -1,0 +1,13 @@
+{
+    "id": "sportsengine",
+    "name": "SportsEngine",
+    "version": "1.0.0",
+    "description": "Sports Engine",
+    "main": "index.js",
+    "author": "Khanh Nguyen <sonicintrusion01@gmail.com>",
+    "license": "MIT",
+    "repository": "https://github.com/sonicintrusion/meetfranz-recipes/sportsengine",
+    "config": {
+      "serviceURL": "https://app.sportngin.com"
+    }
+  }
